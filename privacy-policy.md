@@ -3,16 +3,17 @@
 **Last updated:** [DD Month YYYY]
 
 ## Introduction
-This Privacy Policy explains how the Milk Delivery Tracking app (“the app”) collects, uses, and protects user information. By using this app, you agree to the terms described in this policy.
+This Privacy Policy explains how the MilkTrack app (“the app”) collects, uses, and protects user information. By using this app, you agree to the terms described in this policy.
 
 ## Information We Collect
 The app collects only the information necessary to provide its core functionality, including:
-- Milk subscription details (quantity, schedule)
+- Milk subscription details (supplier name, milk brand,quantity, schedule,price, delivery time,user address)
 - Delivery tracking information
 - Payment records entered by the user
 - Basic account information provided by the user
+- Basic payment details of the supplier to make payments
 
-The app does not collect sensitive personal data such as government-issued identification, biometric data, or financial card details.
+The app does not collect sensitive personal data such as government-issued identification, biometric data.
 
 ## How We Use Information
 The collected information is used solely to:
