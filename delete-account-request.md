@@ -1,6 +1,6 @@
 # Delete Account and Data Request
 
-**Last updated:** [DD Month YYYY]
+**Last updated:** [02-02-2026]
 
 ## Request Account Deletion
 Users of the MilkTrack app may request deletion of their account and associated data at any time.
