@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** [DD Month YYYY]
+**Last updated:** 02-02-2026
 
 ## Introduction
 This Privacy Policy explains how the MilkTrack app (“the app”) collects, uses, and protects user information. By using this app, you agree to the terms described in this policy.
